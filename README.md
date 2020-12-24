@@ -11,6 +11,7 @@ description: "A .NET Standard 2.1 port of the original .NET Framework class libr
 ---
 
 The Official GitHub source: https://github.com/dotnet/samples/tree/master/csharp/parallel/ParallelExtensionsExtras
+
 The Official Microsoft source: https://docs.microsoft.com/en-us/samples/dotnet/samples/parallel-programming-extensions-extras-cs/
 
 # .NET Standard parallel extensions extras
