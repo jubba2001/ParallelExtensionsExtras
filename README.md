@@ -1,3 +1,6 @@
+The Official GitHub source: https://github.com/dotnet/samples/tree/master/csharp/parallel/ParallelExtensionsExtras
+The Official Microsoft source: https://docs.microsoft.com/en-us/samples/dotnet/samples/parallel-programming-extensions-extras-cs/
+
 ---
 languages:
 - csharp
@@ -9,8 +12,6 @@ name: ".NET Standard parallel extensions extras"
 urlFragment: "parallel-programming-extensions-extras-cs"
 description: "A .NET Standard 2.1 port of the original .NET Framework class library from 2010 - containing parallel programming extensions."
 ---
-
-The Official source:  https://docs.microsoft.com/en-us/samples/dotnet/samples/parallel-programming-extensions-extras-cs/
 
 # .NET Standard parallel extensions extras
 
